@@ -1,1 +1,1 @@
-first readme
+ https://dblooper.github.io/rsschool-cv/cv
